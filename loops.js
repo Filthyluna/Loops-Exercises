@@ -1,3 +1,5 @@
+//Group Member: Raul
+
 //Write a for loop that will iterate from 0 to 10,
 //it will multiply the number by 9
 //and log the result (e.g. "2 * 9 = 18")
@@ -60,6 +62,6 @@ function assignGrade(num) {
   }
 }
 
-/*for (let i = 60; i < 101; i++){
+for (let i = 60; i < 101; i++){
   console.log(`For ${i}, you got ${assignGrade(i)}`);
-}*/
+}
